@@ -28,7 +28,7 @@ export default function Login() {
           <div className="mx-auto flex h-16 w-16 items-center justify-center rounded-2xl gradient-primary shadow-large">
             <Package className="h-8 w-8 text-white" />
           </div>
-          <h2 className="mt-6 text-3xl font-bold tracking-tight">Welcome Back</h2>
+          <h2 className="mt-6 text-3xl font-bold tracking-tight">Welcome to ClickCart</h2>
           <p className="mt-2 text-sm text-muted-foreground">
             Sign in to your admin dashboard
           </p>
@@ -119,7 +119,7 @@ export default function Login() {
 
         {/* Footer */}
         <div className="text-center text-xs text-muted-foreground">
-          <p>© 2024 Store Admin. All rights reserved.</p>
+          <p>© 2024 ClickCart. All rights reserved.</p>
         </div>
       </div>
     </div>

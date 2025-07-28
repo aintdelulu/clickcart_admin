@@ -20,8 +20,8 @@ import { useState } from "react";
 
 export default function Settings() {
   const [settings, setSettings] = useState({
-    storeName: "My E-Commerce Store",
-    storeEmail: "admin@mystore.com",
+    storeName: "ClickCart Store",
+    storeEmail: "admin@clickcart.com",
     currency: "USD",
     language: "English",
     emailNotifications: true,

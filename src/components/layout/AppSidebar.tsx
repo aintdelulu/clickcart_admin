@@ -54,8 +54,8 @@ export function AppSidebar() {
           </div>
           {!isCollapsed && (
             <div className="flex flex-col">
-              <span className="text-lg font-semibold">Store Admin</span>
-              <span className="text-xs text-muted-foreground">v2.0</span>
+              <span className="text-lg font-semibold">ClickCart</span>
+              <span className="text-xs text-muted-foreground">Admin Panel</span>
             </div>
           )}
         </div>
